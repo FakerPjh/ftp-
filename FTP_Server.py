@@ -1,6 +1,6 @@
 """
 ftp　文件服务器
-并发网络功能训练
+
 """
 
 from socket import *
